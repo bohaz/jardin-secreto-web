@@ -57,16 +57,15 @@ Flujo de ramas: `feature/*` → PR a `development` → PR a `main`.
 
 ## Fotos de relleno
 
-El hero y la galería de interiores usan fotos gratuitas de [Pexels](https://www.pexels.com/license/) enlazadas desde su CDN, porque las fotos de Instagram no tienen resolución suficiente a pantalla completa:
+La galería de interiores usa fotos gratuitas de [Pexels](https://www.pexels.com/license/) enlazadas desde su CDN, porque las fotos de Instagram no tienen resolución suficiente a pantalla completa:
 
-- Hero: Maria Orlova — https://www.pexels.com/photo/4947357/
 - Interiores: Matheus Bertelli (9056661, 9056703), juliane Monari (29141327), Ahmed Aqeely (14465274)
 
 ## Pendientes antes de entregar al cliente
 
 - [ ] Reemplazar las reseñas por el **texto original y el nombre** de cada autor en Google Maps (hoy son una traducción del texto que entrega Google).
 - [ ] Logo original en vector, si el cliente lo tiene (hoy es una recreación en SVG).
-- [ ] Reemplazar las fotos de relleno de Pexels (hero e interiores) por fotos reales del lugar en alta resolución.
+- [ ] Reemplazar las fotos de relleno de Pexels (interiores) por fotos reales del lugar en alta resolución.
 - [ ] Fotos de las tarjetas en mayor resolución (hoy salen de Instagram).
 - [ ] Enlace a Facebook, si tienen página.
 - [ ] Dominio propio.
