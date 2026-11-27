@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Jardín Secreto">
-  <rect width="64" height="64" rx="14" fill="#1E4D2B"/>
-  <path d="M12 33 L30 18 L45 30" fill="none" stroke="#F4F2EA" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M17 30 V48 H43 V33" fill="none" stroke="#F4F2EA" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="25" y="32" width="10" height="10" rx="1.5" fill="#F4F2EA"/>
-  <path d="M30 32 V42 M25 37 H35" stroke="#1E4D2B" stroke-width="1.8"/>
-  <path d="M44 31 C44 21 50 15 58 13 C58 22 53 29 44 31 Z" fill="#8BC34A"/>
-  <path d="M44 31 C48 25 51 21 55 17" fill="none" stroke="#1E4D2B" stroke-width="1.6" stroke-linecap="round"/>
+  <rect width="64" height="64" rx="14" fill="#f4f2ea"/>
+  <g transform="translate(-22 18) scale(0.168)">
+    <path d="M160 116 L283 22 L432 141" fill="none" stroke="#163d22" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#163d22"><rect x="258" y="72" width="22" height="22" rx="2"/><rect x="286" y="72" width="22" height="22" rx="2"/><rect x="258" y="100" width="22" height="22" rx="2"/><rect x="286" y="100" width="22" height="22" rx="2"/></g>
+    <path d="M428 138 Q416 124 418 104" fill="none" stroke="#3f9a2f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M420.0 112.0 Q480.8 94.2 482.0 22.0 Q421.2 39.8 420.0 112.0 Z" fill="#3f9a2f"/><path d="M416.0 104.0 Q421.5 63.1 378.0 46.0 Q372.5 86.9 416.0 104.0 Z" fill="#3f9a2f"/>
+  </g>
 </svg>

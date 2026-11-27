@@ -51,10 +51,22 @@ Flujo de ramas: `feature/*` → PR a `development` → PR a `main`.
 - HTML semántico, textos alternativos, contraste AA, objetivos táctiles de 44 px o más.
 - SEO: metadatos, Open Graph, datos estructurados `LodgingBusiness`, sitemap y robots.
 
+## Logo
+
+`public/img/logo.svg` (fondo claro) y `public/img/logo-light.svg` (fondo oscuro) recrean el logo del flyer con el texto convertido en trazos, así que no dependen de fuentes instaladas. Tipografías de referencia: Parisienne («Jardín Secreto»), Satisfy («El Totoral») y Montserrat Bold («CABAÑAS»). Para regenerarlo: `scripts/build_logo.py` (requiere `@fontsource/parisienne`, `@fontsource/satisfy`, `@fontsource/montserrat`, `fonttools` y `uharfbuzz`).
+
+## Fotos de relleno
+
+El hero y la galería de interiores usan fotos gratuitas de [Pexels](https://www.pexels.com/license/) enlazadas desde su CDN, porque las fotos de Instagram no tienen resolución suficiente a pantalla completa:
+
+- Hero: Maria Orlova — https://www.pexels.com/photo/4947357/
+- Interiores: Matheus Bertelli (9056661, 9056703), juliane Monari (29141327), Ahmed Aqeely (14465274)
+
 ## Pendientes antes de entregar al cliente
 
 - [ ] Reemplazar las reseñas por el **texto original y el nombre** de cada autor en Google Maps (hoy son una traducción del texto que entrega Google).
 - [ ] Logo original en vector, si el cliente lo tiene (hoy es una recreación en SVG).
-- [ ] Fotos en mayor resolución (hoy salen de Instagram).
+- [ ] Reemplazar las fotos de relleno de Pexels (hero e interiores) por fotos reales del lugar en alta resolución.
+- [ ] Fotos de las tarjetas en mayor resolución (hoy salen de Instagram).
 - [ ] Enlace a Facebook, si tienen página.
 - [ ] Dominio propio.
