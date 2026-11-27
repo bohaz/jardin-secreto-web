@@ -2,6 +2,11 @@
 
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/) y [SemVer](https://semver.org/lang/es/).
 
+## [1.1.1] - 2026-11-27
+
+### Cambiado
+- Hero con la foto real de la cabaña para 8 personas en lugar de la foto de relleno.
+
 ## [1.1.0] - 2026-11-27
 
 ### Cambiado
