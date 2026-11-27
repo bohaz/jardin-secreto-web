@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jardin-secreto-web.tuplandigital.workers.dev/sitemap.xml

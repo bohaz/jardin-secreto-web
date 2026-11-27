@@ -1,0 +1,18 @@
+{
+  "name": "jardin-secreto-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio web de Jardín Secreto El Totoral (cabañas en El Quisco). Hecho por Tu Plan Digital.",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "jsdom": "^25.0.1",
+    "vitest": "^2.1.8",
+    "wrangler": "^4.0.0"
+  }
+}
